@@ -1,6 +1,6 @@
 basic_settings:
   site_title: ML lab 
-  site_tagline: DataScience에 관한 자료 <br> 프로젝트 이력 정리
+  site_tagline: DataScience에 관한 자료 정리 <br> 프로젝트 이력 정리 <br> 손민우
   favicon_image: /images/favicon.png
 
 header_settings:
